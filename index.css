@@ -1,3 +1,8 @@
-body{
-backgroud: red
+body {
+    backgroud: red
+}
+
+h1 {
+    font-size: medium;
+    color: green;
 }
